@@ -1,0 +1,4 @@
+# git commands commonly used
+git init --> to initialize the repository
+git clone "url" -> to clone the repository
+
